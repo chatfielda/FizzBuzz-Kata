@@ -41,7 +41,7 @@ public class FizzBuzzSimple {
 
 				// If the number is not divisible by either 3 or 5 (i.e. if none
 				// of the previous conditionals are met) then display just the
-				// number itself.F
+				// number itself.
 				System.out.println(i);
 
 		}
