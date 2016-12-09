@@ -9,8 +9,10 @@ The classic FizzBuzz Kata.
 
 ## Output
 
-(1) : 1 
-(2) : 2 
+(1) : 1
+
+(2) : 2
+
 (3) : Fizz
 (4) : 4
 (5) : Buzz
