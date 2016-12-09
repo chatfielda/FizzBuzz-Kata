@@ -9,8 +9,7 @@ The classic FizzBuzz Kata.
 
 ## Output
 
-(1) : 1
-
+(1) : 1<br />
 (2) : 2
 
 (3) : Fizz
