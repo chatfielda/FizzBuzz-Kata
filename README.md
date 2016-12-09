@@ -7,7 +7,9 @@ The classic FizzBuzz Kata.
 	- Print "Buzz" if the number is divisible by 5
 	- Print "FizzBuzz" if the number is divisible by both 3 and 5
 
-## Core Code
+## Core Code in Java
+
+Comments included.
 
 		// Creating a loop with 100 iterations.
 		for (int i = 1; i <= 100; i++) {
