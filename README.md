@@ -9,7 +9,7 @@
   
  # Core Code
  
- // Creating a loop with 100 iterations.
+ 		// Creating a loop with 100 iterations.
 		for (int i = 1; i <= 100; i++) {
 
 			// Not strictly necessary for completion of the exercise but I want
