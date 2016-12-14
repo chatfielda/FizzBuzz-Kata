@@ -21,7 +21,7 @@
 			// First find if the number is divisible by both 3 and 5.
 			// Some completions of this exercise recognize that if a number is
 			// divisible by both 3 and both then it is divisible by 15, and thus
-			// use "if (i % 15 == 0 ) for this conditional. For clarity I prefer
+			// use "if (i % 15 == 0 )" for this conditional. For clarity I prefer
 			// to code this with an AND operator.
 			if (i % 5 == 0 && i % 3 == 0) {
 
